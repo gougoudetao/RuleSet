@@ -1,0 +1,7 @@
+#!name=CommonUse
+#!desc=Network tunings for CommonUse.
+#!version=0.2.6
+
+[General]
+skip-proxy = %APPEND% *.tencent.com, *.baidu.com, *.xiaohongshu.com
+tun-excluded-routes = %APPEND% *.tecent.com, *.baidu.com, *.xiaohongshu.com
