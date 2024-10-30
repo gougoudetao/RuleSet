@@ -3,5 +3,5 @@
 #!version=0.2.6
 
 [General]
-skip-proxy = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com
-tun-excluded-routes = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com
+skip-proxy = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com, *.jd.com
+tun-excluded-routes = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com, *.jd.com
