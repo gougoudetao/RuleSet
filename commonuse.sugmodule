@@ -3,4 +3,4 @@
 #!version=0.2.8
 
 [General]
-skip-proxy = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com, *.jd.com, *.taobao.com, *.tmall.com, *.alibabausercontent.com, *.ctrip.com
+skip-proxy = %APPEND% *.tencent.com, *.qq.com, *.tecent-cloud.com, *.baidu.com, *.xiaohongshu.com, *.jd.com, *.taobao.com, *.tmall.com, *.alibabausercontent.com, *.ctrip.com, *.trip.com, *.tripcdn.cn
